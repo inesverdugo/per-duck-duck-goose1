@@ -1,6 +1,6 @@
 
 
-jugadores = ["ines", "Lorena", "paula", "carol"]
+jugadores = ["ines", "Lorena", "paula", "carol", "lucas"]
 numero = int(input("Introduzca un numero"))
 
 def ddg(lista_nombres, numero):
